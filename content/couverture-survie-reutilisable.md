@@ -1,6 +1,6 @@
 ---
-title: Couverture de survie réutilisable : ce qu'il faut savoir
-description: Les repères pour comprendre l'intérêt d'une couverture de survie réutilisable en sortie.
+title: "Couverture de survie réutilisable : ce qu'il faut savoir"
+description: "Les repères pour comprendre l'intérêt d'une couverture de survie réutilisable en sortie."
 tags:
   - plein-air
   - securite
